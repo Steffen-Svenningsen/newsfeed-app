@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@sanity/client": "^3.4.1",
+    "sass": "^1.56.1",
     "vue": "^3.2.45",
     "vue-router": "^4.1.6"
   },
